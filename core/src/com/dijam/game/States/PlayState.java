@@ -16,6 +16,7 @@ import com.dijam.game.Sprites.Witch;
 import com.dijam.game.Sprites.Bat;
 import com.dijam.game.FlyingWitch;
 import java.util.ArrayList;
+
 /*Play state of the program. This state contains the game loop etc.
 * After you have came to the game state, you cannot get back to menu state, however you can pause game,
 * but it does not take you to an another state.*/
