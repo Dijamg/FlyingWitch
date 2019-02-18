@@ -1,0 +1,47 @@
+
+birdy.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bird1
+  rotate: false
+  xy: 1, 1
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+bird2
+  rotate: false
+  xy: 68, 1
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+bird3
+  rotate: false
+  xy: 135, 1
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+bird4
+  rotate: false
+  xy: 202, 1
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+bird5
+  rotate: false
+  xy: 269, 1
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+bird6
+  rotate: false
+  xy: 336, 1
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
