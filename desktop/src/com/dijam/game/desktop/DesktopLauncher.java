@@ -12,6 +12,7 @@ public class DesktopLauncher {
 		config.width = FlyingWitch.WIDTH;
 		config.height = FlyingWitch.HEIGHT;
 		config.title = FlyingWitch.TITLE;
+		config.resizable = false;
 		new LwjglApplication(new FlyingWitch(), config);
 	}
 }

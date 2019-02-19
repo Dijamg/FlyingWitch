@@ -38,6 +38,7 @@ public class FlyingWitch extends ApplicationAdapter {
 		gsm.push(new MenuState(gsm));
 	}
 
+
 	//Paints the screen. Compare to paintComponent(g) in swing etc.
 	@Override
 	public void render () {
