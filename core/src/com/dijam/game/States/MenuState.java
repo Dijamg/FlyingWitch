@@ -23,7 +23,7 @@ public class MenuState extends State {
     private Rectangle rate;
     private Rectangle play;
     private Rectangle score;
-    private float soil1 = 0;
+    private float soil1 = 0;                            //soil1 and soil2 are starting coordinates of the moving ground.
     private float soil2 = FlyingWitch.GAME_WORLD_WIDTH;
     private float timePassed = 0;
 
