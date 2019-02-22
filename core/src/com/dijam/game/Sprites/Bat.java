@@ -12,7 +12,8 @@ import com.badlogic.gdx.math.Rectangle;
 
 /**
  * This class determines the properties of the bats in the game.
- * Bats have a location, hitbox, speed, size and a look(animation),
+ * Bats have a location, hitbox, speed, size and a look(animation).
+ * The width and heigthRatio variables scale the objects according to the screen size of the device.
  */
 
 public class Bat {
