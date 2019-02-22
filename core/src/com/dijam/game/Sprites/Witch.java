@@ -13,7 +13,10 @@ import com.dijam.game.FlyingWitch;
 /*This is the class of the witch character in the game.
 * This class doesn't differ much from the bat and specialmob class, but witch's movement is
 * different to the other 2.
-* The witch has 2 looks, depending of it being buffed or not.*/
+* The witch has 2 looks, depending of it being buffed or not.
+* The width and heigthRatio variables scale the objects according to the screen size of the device.
+*/
+
 public class Witch {
     private final float GRAVITY = -FlyingWitch.GAME_WORLD_HEIGHT/20;
     private final float witchHeight = 75;
