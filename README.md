@@ -6,3 +6,5 @@ This game works on desktop and android devices. The repository contains an andro
 You can find all the game code under the core folder. Desktop and Android folders contain only the
 launcher classes of the desktop and android program. All pictures are drawn by me and the sounds are downloaded from a site named royalty
 free sounds.
+
+Libgdx programs are gradle projects, so you need the gradle files so all the dependencies will be taken care of by gradle during build.
