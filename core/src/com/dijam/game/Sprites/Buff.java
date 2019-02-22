@@ -14,7 +14,9 @@ import java.util.Random;
 * stores data of the texts relating to the buff, f.e buff info, time
 * of the buff remaining etc.
 * Buff texts are stored here, so we can get a its size which makes it
-* possible to scale them to the size of the device screen.*/
+* possible to scale them to the size of the device screen.
+* The width and heigthRatio variables scale the objects according to the screen size of the device.
+*/
 public class Buff {
     private final int groundHeight = 20 + 50;
     private final float SPEED = -FlyingWitch.GAME_WORLD_WIDTH/160;
